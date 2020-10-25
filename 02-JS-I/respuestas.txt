@@ -1,0 +1,6 @@
+Variables: Es la un lugar donde guardar informacion. Las Variables se definen, con un nombre, y cada vez que llame a una variable por su nombre, voy a buscar lo que esta tenga guardada. Puede ser de diferentes tipos: Numeros, String, booleanas
+Strings: Es un tipo de variables, o de datos, que consiste en una cadenas de caracteres, es decir de letras y/o numeros. Se las identifica en el codigo por que estan encerradas entre 'comillas'
+Funciones: Es una parte de un codigo que se usa muchas veces, y en lugar de escribirlo todas las veces, les ponemos un nombre con el que podemos llamarlo todas las veces que necesitemos. Si esa parte del codigo necesita variables de entrada, estas se tienen que pasar cuando la llamamos, estos son los argumentos de una funcion. Las variables que puede, devolver son los return. JS siempre devuelve una variable undefine a menos que le asignemos algo cuando definimos la funcion
+Declaraciones 'IF': es una forma de controlar que parte del codigo queremos ejecutar. Esto es, podemos asignar diferentes condiciones que si son verdaderas pueden ejecutar un parte de nuestro codigo, y una diferente en caso que sea falsa
+Valores booleanos: Es un tipo de informacion que solo tienen dos estados, verdadero o falso.
+
