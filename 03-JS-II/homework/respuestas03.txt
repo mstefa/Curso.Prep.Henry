@@ -1,0 +1,6 @@
+for: la instruccion for nos permite crear un bucle que ejecutara el codigo que nosotros le agreguemos un numero definido de veces. 
+Operadores logicos. permiten unir dos condiciones para que nos devuelva un unico resultado dependiendo si son true o false.
+	&& 'y' devuelve verdadero si las dos condiciones son verdaderas, si no devuelve falso
+	|| 'o' devuelve verdadero si cualquiera, o las dos, condiciones son verdaderas
+	! 'not' devuelve el opuesto a la condicion que precede
+	
