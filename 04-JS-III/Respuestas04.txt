@@ -1,0 +1,2 @@
+
+Arrays: Es un tipo de variable. Es un conjunto ordenados de datos que se puede acceder conociendo la posicion o indice de lo que estamos buscando. 
