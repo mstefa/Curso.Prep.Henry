@@ -1,0 +1,11 @@
+	* Objetos
+        Son una forma de agrupar información bajo un nombre, donde se le pueden definir diferentes propiedades que pueden ser numeros, stings, array o funciones.
+        Para acceder a estas propiedades se pude hacer de dos formas: una es utilizando el nombre del objeto y las propiedades entre corchetes, o utilizando un punto y el nombre de la propiedad.
+	* Propiedades
+        Las propiedades son valores, númericos o no, que estan asociados a los objetos
+	* Métodos
+        Son especie particular de propiedades, de forma que en lugar de ser un valor, es una funcion. 
+	* Bucle `for…in`
+        Es un bucle que permite recorrer todas las propiedades de un objeto dado
+	* Notación de puntos vs notación de corchetes
+        Son dos formas diferentes de llamar a las propiedades de un objeto. La notacion de puntos es, en general, una forma mas sencilla y práctica de llamarlas. La notación entre corchete permite tenes mas funciones, tales como utilizar variables en lugar de el nombre líteral. 
