@@ -1,0 +1,8 @@
+* `prototype`
+Prototype es una forma de asignarles propiedades o metodos comunes a una clase de objetos sin definirlos explicitamente en cada objeto. 
+El prototipo se transforma en una especie de referencia padre para cada instancia de ese objeto JS donde puede ir a buscar estos metodos o propiedades
+si son invocadas
+* _Constructors_ (de Clases)
+Es una funcion que permite crear instancias de una clase de objeto de acuerdo a lo definidio en su interior. Esta funcion no
+tiene la key word 'Return', y utiliza la key word 'This' que ser'a reemplazada por el nombre que le demos a la instancia
+una vez que la invoquemos. De esta forma podemos definir todas las propiedades y metodos que necesitemos en el objeto
